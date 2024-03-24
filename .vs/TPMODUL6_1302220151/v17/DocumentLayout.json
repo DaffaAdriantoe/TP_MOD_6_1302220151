@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tugas\\TPMODUL6_1302220151\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A122C8-620D-4723-888F-6BA9BF43B9D2}|TPMODUL6_1302220151\\TPMODUL6_1302220151.csproj|d:\\tugas\\tpmodul6_1302220151\\tpmodul6_1302220151\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A122C8-620D-4723-888F-6BA9BF43B9D2}|TPMODUL6_1302220151\\TPMODUL6_1302220151.csproj|solutionrelative:tpmodul6_1302220151\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tugas\\TPMODUL6_1302220151\\TPMODUL6_1302220151\\Program.cs",
+              "RelativeDocumentMoniker": "TPMODUL6_1302220151\\Program.cs",
+              "ToolTip": "D:\\Tugas\\TPMODUL6_1302220151\\TPMODUL6_1302220151\\Program.cs",
+              "RelativeToolTip": "TPMODUL6_1302220151\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T21:55:39.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
